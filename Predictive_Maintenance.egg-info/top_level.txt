@@ -1,0 +1,13 @@
+artifacts
+assets
+backend
+build
+config
+data
+dist
+frontend
+logs
+mlruns
+notebooks
+reports
+src

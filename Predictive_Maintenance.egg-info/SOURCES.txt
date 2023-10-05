@@ -1,0 +1,26 @@
+README.md
+pyproject.toml
+setup.py
+Predictive_Maintenance.egg-info/PKG-INFO
+Predictive_Maintenance.egg-info/SOURCES.txt
+Predictive_Maintenance.egg-info/dependency_links.txt
+Predictive_Maintenance.egg-info/requires.txt
+Predictive_Maintenance.egg-info/top_level.txt
+backend/main.py
+backend/model.py
+config/config.py
+frontend/main.py
+frontend/pages/EDA.py
+frontend/pages/Monitoring Reports.py
+frontend/pages/Performance_Measures.py
+frontend/pages/Predict.py
+frontend/src/ui.py
+frontend/src/utils.py
+src/data.py
+src/eda.py
+src/main.py
+src/metrics.py
+src/predict.py
+src/reports.py
+src/train.py
+src/utils.py
